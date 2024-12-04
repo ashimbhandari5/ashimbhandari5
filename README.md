@@ -2,7 +2,7 @@ About Me
 - 👋 I'am Ashim Bhandari, a passionate  web developer.
 
 - Get in Touch
-- 
+  
 Feel free to reach out to me via email at ashimbhandari700@gmail.com for any inquiries or collaboration opportunities.
 Let's get connected.
 <!---
