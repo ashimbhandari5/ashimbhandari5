@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm a passionate web developer with expertise in **React, 
 - 🗄️ Learning database optimization in **PostgreSQL**.
 
 ## 📫 How to Reach Me
-- 📧 Email: [your.email@example.com](mailto:ashimbhandari700@gmail.com)
-- 🌍 Website: [yourwebsite.com](https://ashimbhandari5.com.np)
+- 📧 Email: [ashimbhandari700@gmail.com]
+- 🌍 Website: [https://ashimbhandari5.com.np]
 
 ## 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
