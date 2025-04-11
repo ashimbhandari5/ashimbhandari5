@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashim Bhandari!
+# 👋 Hi, I'm ASHIM BHANDARI!
 Welcome to my GitHub! I'm a passionate web developer with expertise in **React, Node.js, and PostgreSQL**.
 
 ## 🚀 What I'm Learning
